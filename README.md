@@ -1,7 +1,8 @@
 # Website 🖥️
 
 [![Discord](https://img.shields.io/discord/564160730845151244?label=discord&style=flat-square)](https://appwrite.io/discord)
-[![Twitter Account](<https://img.shields.io/badge/X%20(Formerly%20Twitter)-appwrite-00acee?style=flat-square>)](https://twitter.com/appwrite)
+[![Twitter Account](<https://img.shields.io/badge/X%20(Formerly%20Twitter)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fwebsit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fwebsit?ref=badge_shield)
+-appwrite-00acee?style=flat-square>)](https://twitter.com/appwrite)
 [![appwrite.io](https://img.shields.io/badge/appwrite-.io-f02e65?style=flat-square)](https://appwrite.io)
 
 ![Cover banner](/../../../.github/blob/main/profile/images/banner.png)
@@ -42,3 +43,6 @@ Join our growing community around the world! See our official [Blog](https://app
 ## License
 
 Appwrite website, docs and blog © 2025 by Appwrite is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fwebsit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fwebsit?ref=badge_large)
